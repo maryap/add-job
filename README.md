@@ -1,0 +1,2 @@
+- Open the project and run the command "npm install"
+- Run "npm start" to view the project

@@ -1,0 +1,5 @@
+export const TABLE_DATA = 'TABLE_DATA'
+export const MODAL_OPEN = 'MODAL_OPEN'
+export const MODAL_CLOSE = 'MODAL_CLOSE'
+export const DELETE = 'DELETE'
+export const EDIT = 'EDIT'
